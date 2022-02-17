@@ -9,3 +9,5 @@ ADD ./node_modules.tar.gz ./
 COPY . .
 
 ENTRYPOINT ["npm", "start"]
+
+CMD ["npm", "install"]

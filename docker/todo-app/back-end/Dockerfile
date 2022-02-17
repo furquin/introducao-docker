@@ -10,5 +10,7 @@ COPY . .
 
 ENTRYPOINT ["npm", "start"]
 
+CMD ["npm", "install"]
+
 
 

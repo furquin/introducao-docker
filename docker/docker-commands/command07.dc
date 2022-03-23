@@ -1,1 +1,6 @@
 docker container run -d -p 3000:80 --name 02images nginx:1.21.3-alpine
+
+//  docker container run => inicia o container
+// -d => executar o container em background
+// -p => mapeia as ports "nova:3000" "atual:80"
+// --name => nomeia container "02images"

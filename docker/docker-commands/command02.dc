@@ -1,1 +1,3 @@
 docker start 01container
+
+// start => inicia o container

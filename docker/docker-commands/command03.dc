@@ -1,1 +1,4 @@
 docker ps -af "name=01container"
+
+// -a => lista todos container
+// f => filtra container de acordo com o parâmentro "name=01container"

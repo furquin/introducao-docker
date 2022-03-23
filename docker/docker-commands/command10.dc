@@ -1,1 +1,5 @@
 docker image build -t todofrontend ./todo-app/front-end/
+
+//  docker image build -t => cria a imagem 
+//  todofrontend => nome da imagem
+// ./todo-app/front-end => local do Dockerfile

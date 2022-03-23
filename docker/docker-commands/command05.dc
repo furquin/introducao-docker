@@ -1,1 +1,4 @@
 docker rm -f 01container
+
+// docker rm => remove os container
+// -f => filtra de acordo com o parâmentro "01container"

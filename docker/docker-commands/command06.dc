@@ -1,1 +1,3 @@
 docker pull nginx:1.21.3-alpine
+
+//  docker pull => realiza download da imagem "nginx" na versão "1.21.3" baseada em "alpine"

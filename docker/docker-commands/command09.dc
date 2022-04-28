@@ -1,5 +1,2 @@
 docker image build -t todobackend ./todo-app/back-end/
 
-//  docker image build -t => cria a imagem 
-//  todobackend => nome da imagem
-// ./todo-app/back-end => local do Dockerfile

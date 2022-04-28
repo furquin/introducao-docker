@@ -1,6 +1,1 @@
 docker container create -it --name 01container alpine:3.12
-
-//  docker container create => serve para criar um container
-//  -it => cria o container interativo
-// -- name => o nome do container
-// alpine => imagem usada, na versão específica 

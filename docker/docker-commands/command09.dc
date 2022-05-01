@@ -1,2 +1,3 @@
 docker image build -t todobackend ./todo-app/back-end/
 
+//  Requisito: Gere uma build a partir do Dockerfile do back-end do todo-app nomeando a imagem para todobackend

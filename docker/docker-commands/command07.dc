@@ -1,1 +1,3 @@
 docker container run -d -p 3000:80 --name 02images nginx:1.21.3-alpine
+
+//  Requisito: Rode um novo container com a imagem nginx com a versão 1.21.3-alpine em segundo plano nomeando-o como 02images e mapeando sua porta padrão de acesso para porta 3000 do sistema hospedeiro.

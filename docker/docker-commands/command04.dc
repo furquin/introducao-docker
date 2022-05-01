@@ -1,1 +1,3 @@
 docker exec 01container cat /etc/os-release
+
+//  Requisito: execute o comando cat /etc/os-release no container 01container

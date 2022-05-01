@@ -1,1 +1,3 @@
 docker pull nginx:1.21.3-alpine
+
+//  Requisito: Faça o download da imagem nginx com a versão 1.21.3-alpine 

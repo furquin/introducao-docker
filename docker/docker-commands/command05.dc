@@ -1,1 +1,3 @@
 docker rm -f 01container
+
+//  Requisito: Remova o container 01container que está em andamento.

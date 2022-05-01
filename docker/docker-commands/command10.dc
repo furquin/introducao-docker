@@ -1,1 +1,3 @@
 docker image build -t todofrontend ./todo-app/front-end/
+
+//  Requisito:  Gere uma build a partir do Dockerfile do front-end do todo-app nomeando a imagem para todofrontend

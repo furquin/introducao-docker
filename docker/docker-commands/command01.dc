@@ -1,1 +1,3 @@
 docker container create -it --name 01container alpine:3.12
+
+// Requisito: Crie um novo container de modo interativo sem roda-lo nomeando-o como 01container e utilizando a imagem alpine usando a versão 3.12

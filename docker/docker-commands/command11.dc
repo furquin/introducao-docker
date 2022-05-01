@@ -1,1 +1,3 @@
 docker image build -t todotests ./todo-app/tests/
+
+//  Requisito: Gere uma build a partir do Dockerfile dos testes do todo-app nomeando a imagem para todotests

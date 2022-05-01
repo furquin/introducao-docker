@@ -1,1 +1,3 @@
 docker ps -af "name=01container"
+
+//  Requisito: liste e filtre containers com nome 01container

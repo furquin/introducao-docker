@@ -1,2 +1,3 @@
 docker container stop 02images
 
+//  Requisito: Pare o container 02images que está em andamento.

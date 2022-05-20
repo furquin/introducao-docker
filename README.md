@@ -1,5 +1,5 @@
 <div align="center"> 
-    <img align="center"src="https://raw.githubusercontent.com/renatosousafilho/docker-awesome-ptbr/master/docker.png">
+    <img width="920px" height="500px" align="center"src="https://raw.githubusercontent.com/renatosousafilho/docker-awesome-ptbr/master/docker.png">
 </div>
 
 <br>
